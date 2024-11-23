@@ -2,14 +2,6 @@
 
 Welcome to the Grocery Project Website! This web application is designed to help users manage their grocery lists efficiently. Whether you're planning your weekly meals or just need to keep track of items to buy, this application provides a user-friendly interface to simplify your grocery shopping experience.
 
-## Table of Contents
-
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
